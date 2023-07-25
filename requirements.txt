@@ -1,0 +1,8 @@
+fastcore
+unstructured
+unstructured[local-inference]
+selenium
+faiss-cpu
+sentence-transformers
+langchain
+streamlit
